@@ -5,9 +5,9 @@
         fetch="https://github.com" />
 
 <!-- DT -->
-<project path="device/xiaomi/fleur" name="manojrauniyar/device_xiaomi_fleur" remote="ghub" revision="A13"/>
+<project path="device/xiaomi/fleur" name="roshanrauniyar/device_xiaomi_fleur" remote="ghub" revision="A13"/>
 <!-- VT IMS-->
-<project path="vendor/xiaomi/fleur" name="manojrauniyar/vendor_xiaomi_ims-fleur" remote="ghub" revision="twelve" />
+<project path="vendor/xiaomi/fleur" name="roshanrauniyar/vendor_xiaomi_ims-fleur" remote="ghub" revision="twelve" />
  <!-- Gcam -->
 <project path="packages/apps/GCamGOPrebuilt" name="Evolution-X/packages_apps_GCamGOPrebuilt" remote="ghub" revision="tiramisu" />
 </manifest>
