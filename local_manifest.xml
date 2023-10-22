@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
+        
 <remote name="ghub"
         fetch="https://github.com" />
-
+<remove-project name="system_sepolicy"/>
 <!-- DT -->
-<project path="device/xiaomi/fleur" name="roshanrauniyar/device_xiaomi_fleur" remote="ghub" revision="A13"/>
-<!-- VT IMS-->
-<project path="vendor/xiaomi/fleur" name="roshanrauniyar/vendor_xiaomi_ims-fleur" remote="ghub" revision="twelve" />
- <!-- Gcam -->
-<project path="packages/apps/GCamGOPrebuilt" name="Evolution-X/packages_apps_GCamGOPrebuilt" remote="ghub" revision="tiramisu" />
+<project path="device/xiaomi/fleur" name="roshanrauniyar/device_xiaomi_fleur" remote="ghub" revision="thirteen" />
+<!-- VT -->
+<project path="vendor/xiaomi/fleur" name="roshanrauniyar/vendor_xiaomi_fleur" remote="ghub" revision="twelve" />
+<!-- KT -->
+<project path="device/xiaomi/fleur-kernel" name="roshanrauniyar/android_device_xiaomi_fleur-kernel" remote="ghub" revision="lineage-20.0-prebuilt" />
+<!-- FW -->
+<project path="vendor/xiaomi/fleur-firmware" name="roshanrauniyar/vendor_xiaomi_fleur-firmware" remote="ghub" revision="13.0.9.0.SKEMIXM" />
+<!-- Sepolicy -->
+<project path="system/sepolicy" name="roshanrauniyar/system_sepolicy-sparkos" remote="ghub" revision="pyro" />
 </manifest>
