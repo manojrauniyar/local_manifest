@@ -13,5 +13,5 @@
 <!-- FW -->
 <project path="vendor/xiaomi/fleur-firmware" name="roshanrauniyar/vendor_xiaomi_fleur-firmware" remote="ghub" revision="13.0.9.0.SKEMIXM" />
 <!-- Sepolicy -->
-<project path="system/sepolicy" name="roshanrauniyar/system_sepolicy-evox" remote="ghub" revision="tiramisu" />
+<project path="system/sepolicy" name="roshanrauniyar/system_sepolicy-evox" remote="ghub" revision="udc" />
 </manifest>
