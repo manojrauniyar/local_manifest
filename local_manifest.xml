@@ -7,7 +7,7 @@
 <!-- DT -->
 <project path="device/xiaomi/fleur" name="roshanrauniyar/device_xiaomi_fleur" remote="ghub" revision="thirteen" />
 <!-- VT -->
-<project path="vendor/xiaomi/fleur" name="roshanrauniyar/vendor_xiaomi_fleur" remote="ghub" revision="twelve" />
+<project path="vendor/xiaomi/fleur" name="roshanrauniyar/vendor_xiaomi_fleur-sT" remote="ghub" revision="twelve" />
 <!-- Sepolicy -->
 <project path="system/sepolicy" name="roshanrauniyar/system_sepolicy-evox" remote="ghub" revision="udc" />
 </manifest>
