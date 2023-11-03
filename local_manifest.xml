@@ -9,7 +9,7 @@
 <!-- VT -->
 <project path="vendor/xiaomi/fleur" name="roshanrauniyar/vendor_xiaomi_fleur" remote="ghub" revision="twelve" />
 <!-- KT -->
-<project path="device/xiaomi/fleur-kernel" name="roshanrauniyar/android_device_xiaomi_fleur-kernel" remote="ghub" revision="lineage-20.0-prebuilt" />
+<project path="device/xiaomi/fleur-kernel" name="roshanrauniyar/android_device_xiaomi_fleur-kernel" remote="ghub" revision="lineage-20.0" />
 <!-- FW -->
 <project path="vendor/xiaomi/fleur-firmware" name="roshanrauniyar/vendor_xiaomi_fleur-firmware" remote="ghub" revision="14.0.4.0.TKEMIXM" />
 <!-- Sepolicy -->
