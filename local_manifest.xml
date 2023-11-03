@@ -11,7 +11,7 @@
 <!-- KT -->
 <project path="device/xiaomi/fleur-kernel" name="roshanrauniyar/android_device_xiaomi_fleur-kernel" remote="ghub" revision="lineage-20.0-prebuilt" />
 <!-- FW -->
-<project path="vendor/xiaomi/fleur-firmware" name="roshanrauniyar/vendor_xiaomi_fleur-firmware" remote="ghub" revision="13.0.9.0.SKEMIXM" />
+<project path="vendor/xiaomi/fleur-firmware" name="roshanrauniyar/vendor_xiaomi_fleur-firmware" remote="ghub" revision="14.0.4.0.TKEMIXM" />
 <!-- Sepolicy -->
 <project path="system/sepolicy" name="roshanrauniyar/system_sepolicy-derp" remote="ghub" revision="14" />
 </manifest>
