@@ -3,7 +3,13 @@
         
 <remote name="ghub"
         fetch="https://github.com" />
- <remove-project name="system_sepolicy" />
+
+          <remote name="spark"
+          fetch="https://git@github.com/Spark-Rom"
+          revision="refs/heads/spark"/>
+        
+<remove-project path="system/sepolicy" name="system_sepolicy" remote="spark" />
+
 <!-- DT -->
 <project path="device/xiaomi/fleur" name="roshanrauniyar/device_xiaomi_fleur" remote="ghub" revision="thirteen" />
 <!-- VT -->
