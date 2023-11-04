@@ -9,12 +9,10 @@
           revision="refs/heads/spark"/>
         
 <remove-project path="system/sepolicy" name="system_sepolicy" remote="spark" />
-
-<!-- VT -->
-<project path="vendor/xiaomi/fleur" name="roshanrauniyar/vendor_xiaomi_fleur" remote="ghub" revision="twelve" />
-        
 <!-- DT -->
 <project path="device/xiaomi/fleur" name="roshanrauniyar/device_xiaomi_fleur" remote="ghub" revision="thirteen" />
+<!-- VT -->
+<project path="vendor/xiaomi/fleur" name="roshanrauniyar/vendor_xiaomi_fleur" remote="ghub" revision="twelve" />
 <!-- KT -->
 <project path="device/xiaomi/fleur-kernel" name="roshanrauniyar/android_device_xiaomi_fleur-kernel" remote="ghub" revision="lineage-20.0-prebuilt" />
 <!-- FW -->
