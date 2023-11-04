@@ -10,7 +10,7 @@
         
 <remove-project path="system/sepolicy" name="system_sepolicy" remote="spark" />
 <!-- DT -->
-<project path="device/xiaomi/fleur" name="roshanrauniyar/device_xiaomi_fleur" remote="ghub" revision="thirteen" />
+<project path="device/xiaomi/fleur" name="roshanrauniyar/device_xiaomi_fleur" remote="ghub" revision="spark" />
 <!-- VT -->
 <project path="vendor/xiaomi/fleur" name="roshanrauniyar/vendor_xiaomi_fleur" remote="ghub" revision="twelve" />
 <!-- KT -->
