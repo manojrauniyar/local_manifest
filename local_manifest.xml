@@ -2,7 +2,7 @@
 <manifest>
         
 <remote name="ghub"
-        fetch="https://github.com" />
+        fetch="https://github.com/roshanrauniyar" />
 
           <remote name="spark"
           fetch="https://git@github.com/Spark-Rom"
