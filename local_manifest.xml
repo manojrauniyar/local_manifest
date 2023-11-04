@@ -3,7 +3,7 @@
         
 <remote name="ghub"
         fetch="https://github.com" />
-<remove-project name="platform/system/sepolicy" />
+<remove-project name="device_spark_sepolicy" />
 <!-- DT -->
 <project path="device/xiaomi/fleur" name="roshanrauniyar/device_xiaomi_fleur" remote="ghub" revision="thirteen" />
 <!-- VT -->
